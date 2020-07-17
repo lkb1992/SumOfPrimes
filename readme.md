@@ -1,1 +1,1 @@
-please run the jar under the target path 
+please run the jar under the test path 
